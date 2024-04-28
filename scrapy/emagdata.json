@@ -1,0 +1,342 @@
+[
+    {
+        "name": "\n                \n    Procesor Amd Ryzen 5 5600G, 3,9 GHz (16MB L2 si L3), AM4, 6 nuclee, Tray\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzen-5-5600g-3-9-ghz-16mb-l2-si-l3-am4-6-nuclee-tray-3540260192819/pd/DQCHYVMBM/",
+        "price": "703",
+        "specs": {
+            "Frecventa procesor (MHz)": "3.9 GHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "6 ",
+            "Tehnologie de fabricatie (nanometri)": "7 ",
+            "Putere termica (W)": "65 W "
+        },
+        "availability": true,
+        "num_reviews": null,
+        "rating": null,
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/45324/45323326/images/res_ce912fbf32de11cf6bc81dfddfdca6f1.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD RYZEN 7 7800X3D 8-Core 4.2 GHz (5.0 GHz Turbo) 96MB/120W/AM5/ TRAY\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzen-7-7800x3d-8-core-4-2-ghz-5-0-ghz-turbo-96mb-120w-am5-tray-amd-am5-r7-7800x3d-tray/pd/DX97NMYBM/",
+        "price": "4.231",
+        "specs": {
+            "Memorie Cache": "96 MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4.2 GHz ",
+            "Numar nuclee": "8 ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Putere termica (W)": "120 W "
+        },
+        "availability": true,
+        "num_reviews": null,
+        "rating": null,
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/58456/58455194/images/res_d3d7b85c80ee08916fa40007016a2f77.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 7900X3D, 140MB, 4.7/5.6GHz Max Boost, Socket AM5, Radeon Graphics\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900x3d-140mb-4-7-5-6ghz-max-boost-socket-am5-radeon-graphics-100-100000909wof/pd/DVJDH6MBM/",
+        "price": "2.617",
+        "specs": {
+            "Memorie Cache": "140 MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4.4 GHz ",
+            "Turbo Boost pana la": "5.6 GHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "12 ",
+            "Numar thread-uri": "24 ",
+            "Cache L1": "768 KB ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Cache L3": "128 MB ",
+            "Putere termica (W)": "120 W ",
+            "Altele": "AMD Ryzen™ Technologies\nAMD EXPO™ Technology\nAMD Radeon™ Graphics ",
+            "Continut pachet": "1 x Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(3 review-uri)",
+        "rating": "\n            5.00\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/53898/53897992/images/res_73dd7c7ec8faab155c232258b9b26eea.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 5950X, 72MB, 4.9GHz, Socket AM4\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-5950x-72mb-4-9ghz-socket-am4-100-100000059wof/pd/DGRC37MBM/",
+        "price": "2.094",
+        "specs": {
+            "Memorie Cache": "64 MB ",
+            "Socket": "AM4 ",
+            "Frecventa procesor (MHz)": "3.4 GHz ",
+            "Turbo Boost pana la": "4.9 GHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "16 ",
+            "Numar thread-uri": "32 ",
+            "Tehnologie de fabricatie (nanometri)": "7 ",
+            "Cooler": "Nu ",
+            "Putere termica (W)": "105 W ",
+            "Altele": "AMD StoreMI\nPCIe 4.0\nAMD Ryzen™ Master Utility\nAMD Ryzen™ VR-Ready Premium ",
+            "Continut pachet": "Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(19 review-uri)",
+        "rating": "\n            4.79\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/33357/33356153/images/res_5095597bfdfbe414b374bdb45cde4050.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 7900X, 76MB, 4.7/5.6GHz Max Boost, Socket AM5, Radeon Graphics\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900x-76mb-4-7-5-6ghz-max-boost-socket-am5-radeon-graphics-100-100000589wof/pd/D44RPLMBM/",
+        "price": "2.206",
+        "specs": {
+            "Memorie Cache": "76 MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4.7 GHz ",
+            "Turbo Boost pana la": "5.6 GHz ",
+            "Numar nuclee": "12 ",
+            "Numar thread-uri": "24 ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Cooler": "Nu ",
+            "Putere termica (W)": "170 W ",
+            "Altele": "AMD Ryzen™ Technologies\nAMD EXPO™ Technology\nAMD Radeon™ Graphics ",
+            "Continut pachet": "Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(7 review-uri)",
+        "rating": "\n            4.57\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/48406/48405216/images/res_00220d69fba0ae500ae9429158d2b535.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD 100-100000255MPK Ryzen 5 PRO 5650G, 3.9GHz, 16 MB, MPK\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzen-5-pro-5650g-3-9ghz-16-mb-mpk-100-100000255mpk/pd/DM66BZMBM/",
+        "price": "1.620",
+        "specs": {
+            "Memorie Cache": "128 GB ",
+            "Socket": "AM4 ",
+            "Frecventa procesor (MHz)": "3.9 GHz ",
+            "Numar nuclee": "6 ",
+            "Tehnologie de fabricatie (nanometri)": "7 nm ",
+            "Putere termica (W)": "65 W "
+        },
+        "availability": true,
+        "num_reviews": null,
+        "rating": null,
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/48974/48973398/images/res_045ab62164d8019503e19fc07cb467cf.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 7950X, 128MB, 4.2 GHz\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7950x-128mb-4-2-ghz-100-100000908wof/pd/DGX0V6MBM/",
+        "price": "3.917",
+        "specs": {
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4200 MHz ",
+            "Turbo Boost pana la": "5700 MHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "16 ",
+            "Cache L1": "16 MB ",
+            "Tehnologie de fabricatie (nanometri)": "5 ",
+            "Cache L3": "128 MB ",
+            "Cooler": "Nu ",
+            "Putere termica (W)": "120 W ",
+            "Altele": "AMD EXPO\nPrecision Boost 2 "
+        },
+        "availability": true,
+        "num_reviews": "(1 review)",
+        "rating": "\n            1.00\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/54111/54110499/images/res_23df58ce9c5e45bede10d24be933c722.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 5900X, 70MB, 4.8GHz, Socket AM4\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-5900x-70mb-4-8ghz-socket-am4-100-100000061wof/pd/DWRC37MBM/",
+        "price": "1.617",
+        "specs": {
+            "Memorie Cache": "70 MB ",
+            "Socket": "AM4 ",
+            "Frecventa procesor (MHz)": "3.7 GHz ",
+            "Turbo Boost pana la": "4.8 GHz ",
+            "Numar nuclee": "12 ",
+            "Numar thread-uri": "24 ",
+            "Tehnologie de fabricatie (nanometri)": "7 ",
+            "Cooler": "Nu ",
+            "Putere termica (W)": "105 W ",
+            "Altele": "AMD StoreMI\nPCIe 4.0\nAMD Ryzen™ Master Utility\nAMD Ryzen™ VR-Ready Premium ",
+            "Continut pachet": "Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(54 de review-uri)",
+        "rating": "\n            4.59\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/33357/33356153/images/res_5095597bfdfbe414b374bdb45cde4050.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 7900X3D, 128MB, 4.4GHz\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900x3d-128mb-4-4ghz-100-100000909wof/pd/DWX0V6MBM/",
+        "price": "2.775",
+        "specs": {
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4700 MHz ",
+            "Turbo Boost pana la": "5600 MHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "12 ",
+            "Cache L1": "768 KB ",
+            "Tehnologie de fabricatie (nanometri)": "5 ",
+            "Cache L3": "128 MB ",
+            "Cooler": "Nu ",
+            "Putere termica (W)": "120 W ",
+            "Altele": "AMD EXPO\nPrecision Boost 2 "
+        },
+        "availability": true,
+        "num_reviews": null,
+        "rating": null,
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/54111/54110499/images/res_23df58ce9c5e45bede10d24be933c722.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor, AMD, RYZEN 9 7900X3D, 12 nuclee, 4.4 GHz, 128 MB, 120 W\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzen-9-7900x3d-12-nuclee-4-4-ghz-128-mb-120-w-amd-am5-r9-7900x3d-box/pd/DX15F6MBM/",
+        "price": "2.666",
+        "specs": {
+            "Memorie Cache": "128 MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4.4 GHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "12 ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Putere termica (W)": "120 W "
+        },
+        "availability": true,
+        "num_reviews": null,
+        "rating": null,
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/54037/54036795/images/res_4fa088e9f54b170989911a90b3feba7d.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 7950X3D, 144MB, 4.5/5.7GHz Max Boost, Socket AM5, Radeon Graphic\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7950x3d-144mb-4-5-5-7ghz-max-boost-socket-am5-radeon-graphic-100-100000908wof/pd/D8NDH6MBM/",
+        "price": "3.531",
+        "specs": {
+            "Memorie Cache": "144 MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4.2 GHz ",
+            "Turbo Boost pana la": "5.7 GHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "16 ",
+            "Numar thread-uri": "32 ",
+            "Cache L1": "1024 KB ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Cache L3": "128 MB ",
+            "Putere termica (W)": "120 W ",
+            "Altele": "AMD Ryzen™ Technologies\nAMD EXPO™ Technology\nAMD Radeon™ Graphics ",
+            "Continut pachet": "1 x Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(5 review-uri)",
+        "rating": "\n            5.00\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/53898/53897992/images/res_73dd7c7ec8faab155c232258b9b26eea.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 7 7800X3D, 104MB, 4.2/5.0GHz Max Boost, Socket AM5, Radeon Graphic\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-7800x3d-104mb-4-2-5-0ghz-max-boost-socket-am5-radeon-graphic-100-100000910wof/pd/D8VHC8MBM/",
+        "price": "2.144",
+        "specs": {
+            "Memorie Cache": "104 MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4.2 GHz ",
+            "Turbo Boost pana la": "5 GHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "8 ",
+            "Numar thread-uri": "16 ",
+            "Cache L1": "512 KB ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Cache L3": "96 MB ",
+            "Putere termica (W)": "120 W ",
+            "Altele": "AMD Ryzen™ Technologies\nAMD EXPO™ Technology\nAMD Radeon™ Graphics ",
+            "Continut pachet": "1 x Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(17 review-uri)",
+        "rating": "\n            5.00\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/55095/55094716/images/res_646078caa51c58fcde8abbeb5e2c1762.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 7900, 76MB, 3.7/5.4GHz Boost, Socket AM5, Radeon Graphics\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900-76mb-3-7-5-4ghz-boost-socket-am5-radeon-graphics-100-100000590box/pd/DTZQPRMBM/",
+        "price": "2.179",
+        "specs": {
+            "Memorie Cache": "76MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "3.7 GHz ",
+            "Turbo Boost pana la": "5.4 GHz ",
+            "Numar nuclee": "12 ",
+            "Numar thread-uri": "24 ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Cooler": "Wraith Prism ",
+            "Putere termica (W)": "65 W ",
+            "Altele": "AMD Ryzen™ Technologies\nAMD EXPO™ Technology\nAMD Radeon™ Graphics ",
+            "Continut pachet": "Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(6 review-uri)",
+        "rating": "\n            5.00\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/52099/52098421/images/res_7b83f0c3ee6a62dcdee09ab46c7554f0.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 9 7950X, 80MB, 4.5/5.7GHz Max Boost, Socket AM5, Radeon Graphics\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7950x-80mb-4-5-5-7ghz-max-boost-socket-am5-radeon-graphics-100-100000514wof/pd/DV4RPLMBM/",
+        "price": "3.416",
+        "specs": {
+            "Memorie Cache": "80 MB ",
+            "Socket": "AM5 ",
+            "Frecventa procesor (MHz)": "4.5 GHz ",
+            "Turbo Boost pana la": "5.7 GHz ",
+            "Numar nuclee": "16 ",
+            "Numar thread-uri": "32 ",
+            "Tehnologie de fabricatie (nanometri)": "5 nm ",
+            "Cooler": "Nu ",
+            "Putere termica (W)": "170 W ",
+            "Altele": "AMD Ryzen™ Technologies\nAMD EXPO™ Technology\nAMD Radeon™ Graphics ",
+            "Continut pachet": "Procesor "
+        },
+        "availability": true,
+        "num_reviews": "(7 review-uri)",
+        "rating": "\n            4.57\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/48406/48405216/images/res_00220d69fba0ae500ae9429158d2b535.jpg"
+    },
+    {
+        "name": "\n                \n    Procesor AMD Ryzen™ 5 5600G, 19MB, 3.9GHz, Socket AM4, Wraith Stealth\n            ",
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-5600g-19mb-3-9ghz-socket-am4-wraith-stealth-100-100000252box/pd/DZRSRHMBM/",
+        "price": "727",
+        "specs": {
+            "Memorie Cache": "19 MB ",
+            "Socket": "AM4 ",
+            "Frecventa procesor (MHz)": "3.9 GHz ",
+            "Turbo Boost pana la": "4.4 GHz ",
+            "Mod de operare (biti)": "64 ",
+            "Numar nuclee": "6 ",
+            "Numar thread-uri": "12 ",
+            "Tehnologie de fabricatie (nanometri)": "TSMC 7nm FinFET ",
+            "Cooler": "Wraith Stealth ",
+            "Putere termica (W)": "65 W ",
+            "Altele": "PCIe 3.0\nRadeon™ Graphics "
+        },
+        "availability": true,
+        "num_reviews": "(60 de review-uri)",
+        "rating": "\n            4.93\n            ",
+        "category": "Componente PC",
+        "img_url": "https://s13emagst.akamaized.net/products/39550/39549791/images/res_3e3b17b90f54eaefcd93ea7187c1c6f8.jpg"
+    }
+][
+
+][
+
+][
+
+][
+
+]
