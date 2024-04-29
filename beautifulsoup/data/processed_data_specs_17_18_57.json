@@ -1,0 +1,1370 @@
+[
+    {
+        "name": "Procesor AMD Ryzen 7 7800X3D, 104MB, 4.2/5.0GHz Max Boost, Socket AM5, Radeon Graphic",
+        "price": 2144.65,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-7800x3d-104mb-4-2-5-0ghz-max-boost-socket-am5-radeon-graphic-100-100000910wof/pd/D8VHC8MBM/",
+        "rating": 5.0,
+        "num_reviews": 17,
+        "img": "https://s13emagst.akamaized.net/products/55095/55094716/images/res_646078caa51c58fcde8abbeb5e2c1762.jpg?width=720&height=720&hash=366A48EEFF8452B26CE0EBDFDE962356",
+        "specs": {
+            "Memorie Cache": "104 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4.2 GHz",
+            "Turbo Boost pana la": "5 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 8,
+            "Numar thread-uri": 16,
+            "Cache L1": "512 KB",
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cache L3": "96 MB",
+            "Putere termica (W)": [
+                "120 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 7600, 38MB, 3.8/5.1GHz Boost, Socket AM5, Radeon Graphics",
+        "price": 1071.0,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-7600-38mb-3-8-5-1ghz-boost-socket-am5-radeon-graphics-100-100001015box/pd/DKZQPRMBM/",
+        "rating": 4.79,
+        "num_reviews": 14,
+        "img": "https://s13emagst.akamaized.net/products/52099/52098422/images/res_ac414bd124ed671670631b7da5b376a2.jpg?width=720&height=720&hash=ECF57701B0DCEFD5990F6FD84CA9345A",
+        "specs": {
+            "Memorie Cache": "38 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "3.8 GHz",
+            "Turbo Boost pana la": "5.1 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Cache L1": "384 KB",
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cache L3": "32 MB",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 3600, 35MB, 4.2 GHz cu Wraith Stealth cooler",
+        "price": 399.99,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-3600-35mb-4-2-ghz-cu-wraith-stealth-cooler-100-100000031box/pd/DGY10RBBM/",
+        "rating": 4.87,
+        "num_reviews": 158,
+        "img": "https://s13emagst.akamaized.net/products/23409/23408129/images/res_9a455439b20125180be81399d8aa1cd8.jpg?width=720&height=720&hash=E1ECC4DBD84055365712D55986F17E3D",
+        "specs": {
+            "Memorie Cache": "35 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3600 MHz",
+            "Turbo Boost pana la": "4200 MHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cache L3": "32 MB",
+            "Cooler": "Da",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 7 5700X, 36MB, 4.6GHz, Socket AM4",
+        "price": 1015.77,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-5700x-36mb-4-6ghz-socket-am4-100-100000926wof/pd/DDX76SMBM/",
+        "rating": 4.77,
+        "num_reviews": 35,
+        "img": "https://s13emagst.akamaized.net/products/45139/45138579/images/res_a3237c9235027f211666dcf196ebd9b7.jpg?width=720&height=720&hash=48D4540ED53B24708090ED49895BE793",
+        "specs": {
+            "Memorie Cache": "36 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.4 GHz",
+            "Turbo Boost pana la": "4.6 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 8,
+            "Numar thread-uri": 16,
+            "Cache L1": "512 KB",
+            "Tehnologie de fabricatie (nanometri)": "TSMC 7nm FinFET",
+            "Cache L3": "32 MB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "PCIe 4.0"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 7900X3D, 140MB, 4.7/5.6GHz Max Boost, Socket AM5, Radeon Graphics",
+        "price": 2617.76,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900x3d-140mb-4-7-5-6ghz-max-boost-socket-am5-radeon-graphics-100-100000909wof/pd/DVJDH6MBM/",
+        "rating": 5.0,
+        "num_reviews": 3,
+        "img": "https://s13emagst.akamaized.net/products/53898/53897992/images/res_73dd7c7ec8faab155c232258b9b26eea.jpg?width=720&height=720&hash=C863108FF0D96CDF31A042056B26BAEE",
+        "specs": {
+            "Memorie Cache": "140 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4.4 GHz",
+            "Turbo Boost pana la": "5.6 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 12,
+            "Numar thread-uri": 24,
+            "Cache L1": "768 KB",
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cache L3": "128 MB",
+            "Putere termica (W)": [
+                "120 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 5900X, 70MB, 4.8GHz, Socket AM4",
+        "price": 1617.89,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-5900x-70mb-4-8ghz-socket-am4-100-100000061wof/pd/DWRC37MBM/",
+        "rating": 4.59,
+        "num_reviews": 54,
+        "img": "https://s13emagst.akamaized.net/products/33357/33356153/images/res_5095597bfdfbe414b374bdb45cde4050.jpg?width=720&height=720&hash=F4CF78C0426568A9D99FD9195A9159AC",
+        "specs": {
+            "Memorie Cache": "70 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Turbo Boost pana la": "4.8 GHz",
+            "Numar nuclee": 12,
+            "Numar thread-uri": 24,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "105 W "
+            ],
+            "Altele": [
+                "AMD StoreMI",
+                "PCIe 4.0",
+                "AMD Ryzen Master Utility",
+                "AMD Ryzen VR-Ready Premium"
+            ],
+            "Continut pachet": [
+                "Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 7600X, 38MB, 4.7/5.3GHz Boost, Socket AM5, Radeon Graphics",
+        "price": 1283.22,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-7600x-38mb-4-7-5-3ghz-boost-socket-am5-radeon-graphics-100-100000593wof/pd/DL4RPLMBM/",
+        "rating": 4.5,
+        "num_reviews": 12,
+        "img": "https://s13emagst.akamaized.net/products/48406/48405219/images/res_6debe4f54c8bb0e384988eb901685df7.jpg?width=720&height=720&hash=36ADAE4A9D6562CB095EC47599D489D6",
+        "specs": {
+            "Memorie Cache": "38 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4.7 GHz",
+            "Turbo Boost pana la": "5.3 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "105 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 7950X3D, 144MB, 4.5/5.7GHz Max Boost, Socket AM5, Radeon Graphic",
+        "price": 3531.49,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7950x3d-144mb-4-5-5-7ghz-max-boost-socket-am5-radeon-graphic-100-100000908wof/pd/D8NDH6MBM/",
+        "rating": 5.0,
+        "num_reviews": 5,
+        "img": "https://s13emagst.akamaized.net/products/53898/53897992/images/res_73dd7c7ec8faab155c232258b9b26eea.jpg?width=720&height=720&hash=C863108FF0D96CDF31A042056B26BAEE",
+        "specs": {
+            "Memorie Cache": "144 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4.2 GHz",
+            "Turbo Boost pana la": "5.7 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 16,
+            "Numar thread-uri": 32,
+            "Cache L1": "1024 KB",
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cache L3": "128 MB",
+            "Putere termica (W)": [
+                "120 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 5600X, 35MB, 4.6GHz, Wraith Stealth",
+        "price": 848.76,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-5600x-35mb-4-6ghz-wraith-stealth-100-100000065box/pd/DM5C37MBM/",
+        "rating": 4.93,
+        "num_reviews": 149,
+        "img": "https://s13emagst.akamaized.net/products/33357/33356156/images/res_d9ff1a1c7b4211edab2dcdf5bafe7121.jpg?width=720&height=720&hash=1BB2F3272387D14E86B12E17273AB90E",
+        "specs": {
+            "Memorie Cache": "35 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Turbo Boost pana la": "4.6 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "TSMC 7nm FinFET",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "PCIe 4.0"
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 7900X, 76MB, 4.7/5.6GHz Max Boost, Socket AM5, Radeon Graphics",
+        "price": 2206.5,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900x-76mb-4-7-5-6ghz-max-boost-socket-am5-radeon-graphics-100-100000589wof/pd/D44RPLMBM/",
+        "rating": 4.57,
+        "num_reviews": 7,
+        "img": "https://s13emagst.akamaized.net/products/48406/48405216/images/res_00220d69fba0ae500ae9429158d2b535.jpg?width=720&height=720&hash=140E04377D318352DD35B9ED54DBCED2",
+        "specs": {
+            "Memorie Cache": "76 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4.7 GHz",
+            "Turbo Boost pana la": "5.6 GHz",
+            "Numar nuclee": 12,
+            "Numar thread-uri": 24,
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "170 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 5950X, 72MB, 4.9GHz, Socket AM4",
+        "price": 2089.14,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-5950x-72mb-4-9ghz-socket-am4-100-100000059wof/pd/DGRC37MBM/",
+        "rating": 4.79,
+        "num_reviews": 19,
+        "img": "https://s13emagst.akamaized.net/products/33357/33356153/images/res_5095597bfdfbe414b374bdb45cde4050.jpg?width=720&height=720&hash=F4CF78C0426568A9D99FD9195A9159AC",
+        "specs": {
+            "Memorie Cache": "64 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.4 GHz",
+            "Turbo Boost pana la": "4.9 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 16,
+            "Numar thread-uri": 32,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "105 W "
+            ],
+            "Altele": [
+                "AMD StoreMI",
+                "PCIe 4.0",
+                "AMD Ryzen Master Utility",
+                "AMD Ryzen VR-Ready Premium"
+            ],
+            "Continut pachet": [
+                "Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 7900, 76MB, 3.7/5.4GHz Boost, Socket AM5, Radeon Graphics",
+        "price": 2210.44,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900-76mb-3-7-5-4ghz-boost-socket-am5-radeon-graphics-100-100000590box/pd/DTZQPRMBM/",
+        "rating": 5.0,
+        "num_reviews": 6,
+        "img": "https://s13emagst.akamaized.net/products/52099/52098421/images/res_7b83f0c3ee6a62dcdee09ab46c7554f0.jpg?width=720&height=720&hash=6D81F71793B5F5B7769A83543BDDEE95",
+        "specs": {
+            "Memorie Cache": "76MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Turbo Boost pana la": "5.4 GHz",
+            "Numar nuclee": 12,
+            "Numar thread-uri": 24,
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cooler": "Wraith Prism",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i9-14900K, pana la 6.0 GHz turbo, 36MB, Socket LGA1700, Intel UHD Graphics 770",
+        "price": 3149.99,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i9-14900k-pana-la-6-0-ghz-turbo-36mb-socket-lga1700-intelr-uhd-graphics-770-bx8071514900k/pd/DFH937YBM/",
+        "rating": 5.0,
+        "num_reviews": 10,
+        "img": "https://s13emagst.akamaized.net/products/61980/61979090/images/res_337544077aa67b6f37d3c48cc0a18e5e.jpg?width=720&height=720&hash=AF61F4B1A91CE00FA6EF6FAE7F4BB9BA",
+        "specs": {
+            "Memorie Cache": "36 MB",
+            "Socket": "1700",
+            "Frecventa procesor (MHz)": "2.4 GHz\n3.2 GHz",
+            "Turbo Boost pana la": "6 GHz",
+            "Numar nuclee": 24,
+            "Numar thread-uri": 32,
+            "Tehnologie de fabricatie (nanometri)": "10",
+            "Putere termica (W)": [
+                "125 W",
+                "253 W "
+            ],
+            "Altele": [
+                "Procesor grafic integrat: Intel UHD Graphics 770"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 4600G, 4.2GHz, 11MB, socket AM4, Box, Radeon Graphics",
+        "price": 495.54,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-4600g-4-2ghz-11mb-socket-am4-box-radeon-graphics-100-100000147box/pd/D107Z4MBM/",
+        "rating": 5.0,
+        "num_reviews": 16,
+        "img": "https://s13emagst.akamaized.net/products/46837/46836590/images/res_7e2f85f515d30255989d77ca3c5332cb.jpg?width=720&height=720&hash=3261875DBADF94EEBC1C8C14035B44BB",
+        "specs": {
+            "Memorie Cache": "11 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3700 MHz",
+            "Turbo Boost pana la": "4200 MHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cache L3": "8 MB",
+            "Cooler": "Da",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i7-14700KF, pana la 5.6 GHz turbo, 33MB, Socket LGA1700, fara video integrat",
+        "price": 2139.99,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i7-14700kf-pana-la-5-6-ghz-turbo-33mb-socket-lga1700-fara-video-integrat-bx8071514700kf/pd/DVH937YBM/",
+        "rating": 5.0,
+        "num_reviews": 10,
+        "img": "https://s13emagst.akamaized.net/products/61980/61979093/images/res_b4d137144445ace34b03e0b7116186c6.jpg?width=720&height=720&hash=BD48D33A1CA522BF0357533CAE5CF1F9",
+        "specs": {
+            "Memorie Cache": "33 MB",
+            "Socket": "1700",
+            "Frecventa procesor (MHz)": "2.5 GHz\n3.4 GHz",
+            "Turbo Boost pana la": "5.6 GHz",
+            "Numar nuclee": 20,
+            "Numar thread-uri": 28,
+            "Tehnologie de fabricatie (nanometri)": "10",
+            "Putere termica (W)": [
+                "125 W",
+                "253 W "
+            ],
+            "Altele": [
+                "Fara procesor grafic integrat"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 8500G, 22MB, up to 5.0GHz Max Boost, Socket AM5, Radeon Graphics 740M, Wraith Stealth cooler",
+        "price": 949.99,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-8500g-22mb-up-to-5-0ghz-max-boost-socket-am5-radeontm-graphics-740m-wraith-stealth-cooler-100-100000931box/pd/DPCJDKYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/64842/64841224/images/res_bfc2269a5a6a45d59f085fd336550dc5.jpg?width=720&height=720&hash=376A84C21D84988E39A661926C5B2943",
+        "specs": {
+            "Memorie Cache": "22 MB",
+            "Socket": "AMD AM5",
+            "Frecventa procesor (MHz)": "3.5 GHz",
+            "Turbo Boost pana la": "5 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "4 nm",
+            "Cache L3": "16 MB",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "45 W",
+                "65 W "
+            ],
+            "Altele": [
+                "AMD Radeon 740M"
+            ],
+            "Continut pachet": [
+                "1 x Cooler",
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 7 5700G, 20MB, 3.8GHz, Socket AM4, Wraith Stealth",
+        "price": 1080.07,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-5700g-20mb-3-8ghz-socket-am4-wraith-stealth-100-100000263box/pd/DSQSRHMBM/",
+        "rating": 4.93,
+        "num_reviews": 27,
+        "img": "https://s13emagst.akamaized.net/products/39550/39549755/images/res_f16673353051f21c8bf3d2f96e1e010a.jpg?width=720&height=720&hash=5737374B3D3447A35E8DC68F11641978",
+        "specs": {
+            "Memorie Cache": "20 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.8 GHz",
+            "Turbo Boost pana la": "4.6 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 8,
+            "Numar thread-uri": 16,
+            "Tehnologie de fabricatie (nanometri)": "TSMC 7nm FinFET",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "PCIe 3.0",
+                "Radeon Graphics"
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 7 5700X3D, 100MB, up to 4.1GHz Max Boost, Socket AM4",
+        "price": 1476.66,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-5700x3d-100mb-up-to-4-1ghz-max-boost-socket-am4-100-100001503wof/pd/DNCJDKYBM/",
+        "rating": 5.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/44538/44537552/images/res_24a5c09853c4c35b1716d83c5c5c6882.jpg?width=720&height=720&hash=C1B410FFEF4E65E44A2EE696F4214C34",
+        "specs": {
+            "Memorie Cache": "100 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3 GHz",
+            "Turbo Boost pana la": "4.1 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 8,
+            "Numar thread-uri": 16,
+            "Tehnologie de fabricatie (nanometri)": "TSMC 7nm FinFET",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "105 W "
+            ],
+            "Altele": [
+                "PCIe 4.0"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 7 5700, 20MB, up to 4.6GHz Max Boost, Socket AM4, Wraith Stealth cooler",
+        "price": 779.99,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-5700-20mb-up-to-4-6ghz-max-boost-socket-am4-wraith-stealth-cooler-100-100000743box/pd/D0CJDKYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/64842/64841222/images/res_eeeb7d890f158e39fe31f5e79e33bd8b.jpg?width=720&height=720&hash=1781734E1E481D8423B6C45A1DAB6244",
+        "specs": {
+            "Memorie Cache": "20 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Turbo Boost pana la": "4.6 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 8,
+            "Numar thread-uri": 16,
+            "Cache L1": "512 KB",
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cache L3": "16 MB",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "45 W",
+                "65 W "
+            ],
+            "Continut pachet": [
+                "1 x Cooler",
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 7950X, 80MB, 4.5/5.7GHz Max Boost, Socket AM5, Radeon Graphics",
+        "price": 3409.92,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7950x-80mb-4-5-5-7ghz-max-boost-socket-am5-radeon-graphics-100-100000514wof/pd/DV4RPLMBM/",
+        "rating": 4.57,
+        "num_reviews": 7,
+        "img": "https://s13emagst.akamaized.net/products/48406/48405216/images/res_00220d69fba0ae500ae9429158d2b535.jpg?width=720&height=720&hash=140E04377D318352DD35B9ED54DBCED2",
+        "specs": {
+            "Memorie Cache": "80 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4.5 GHz",
+            "Turbo Boost pana la": "5.7 GHz",
+            "Numar nuclee": 16,
+            "Numar thread-uri": 32,
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "170 W "
+            ],
+            "Altele": [
+                "AMD Ryzen Technologies",
+                "AMD EXPO Technology",
+                "AMD Radeon Graphics"
+            ],
+            "Continut pachet": [
+                "Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 7 8700G, 24MB, up to 5.1GHz Max Boost, Socket AM5, Radeon Graphics 780M, Wraith SPIRE cooler",
+        "price": 1749.99,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-8700g-24mb-up-to-5-1ghz-max-boost-socket-am5-radeontm-graphics-780m-wraith-spire-cooler-100-100001236box/pd/DKCJDKYBM/",
+        "rating": 5.0,
+        "num_reviews": 2,
+        "img": "https://s13emagst.akamaized.net/products/64842/64841220/images/res_0a7917210d32ceba689c09b6d8fe0074.jpg?width=720&height=720&hash=5410021082BDBA715F3095C2585D80E7",
+        "specs": {
+            "Memorie Cache": "24 MB",
+            "Socket": "AMD AM5",
+            "Frecventa procesor (MHz)": "4.2 GHz",
+            "Turbo Boost pana la": "5.1 GHz",
+            "Numar nuclee": 8,
+            "Numar thread-uri": 16,
+            "Tehnologie de fabricatie (nanometri)": "4 nm",
+            "Cache L3": "16 MB",
+            "Cooler": "Wraith Spire",
+            "Putere termica (W)": [
+                "45 W",
+                "65 W "
+            ],
+            "Altele": [
+                "AMD Radeon 780M"
+            ],
+            "Continut pachet": [
+                "1 x Cooler",
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 3600, 4.2GHz, 36MB, socket AM4, Box, fara cooler",
+        "price": 459.9,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-3600-4-2ghz-36mb-socket-am4-box-fara-cooler-100-100000031awof/pd/DW77Z4MBM/",
+        "rating": 4.86,
+        "num_reviews": 44,
+        "img": "https://s13emagst.akamaized.net/products/46837/46836442/images/res_93e02115898aac60c5c6a80a11e5cc80.jpg?width=720&height=720&hash=4D7721F379D277483CECF7165BF05F0D",
+        "specs": {
+            "Memorie Cache": "36 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3600 MHz",
+            "Turbo Boost pana la": "4200 MHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cache L3": "32 MB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "AMD StoreMI",
+                "AMD Ryzen Master Utility"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 5600G, 19MB, 3.9GHz, Socket AM4, Wraith Stealth",
+        "price": 727.82,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-5600g-19mb-3-9ghz-socket-am4-wraith-stealth-100-100000252box/pd/DZRSRHMBM/",
+        "rating": 4.93,
+        "num_reviews": 60,
+        "img": "https://s13emagst.akamaized.net/products/39550/39549791/images/res_3e3b17b90f54eaefcd93ea7187c1c6f8.jpg?width=720&height=720&hash=9CD75D1AC4AD38EE1C0A0A17C96448FB",
+        "specs": {
+            "Memorie Cache": "19 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.9 GHz",
+            "Turbo Boost pana la": "4.4 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "TSMC 7nm FinFET",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "PCIe 3.0",
+                "Radeon Graphics"
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i5-14400F, pana la 4.7 GHz turbo, 20MB L3, Socket LGA1700, fara video integrat",
+        "price": 1252.06,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i5-14400f-pana-la-4-7-ghz-turbo-20mb-l3-socket-lga1700-fara-video-integrat-bx8071514400f/pd/DD6MCKYBM/",
+        "rating": 4.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/65245/65244094/images/res_45d509a55f8ebfcb3169653a44538bf1.jpg?width=720&height=720&hash=CB9A7BF30EA8B9D272EE34EEE2668A3E",
+        "specs": {
+            "Memorie Cache": "20 MB",
+            "Socket": "1700",
+            "Frecventa procesor (MHz)": "1.8 GHz\n2.5 GHz",
+            "Turbo Boost pana la": "4.7 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 10,
+            "Numar thread-uri": 16,
+            "Tehnologie de fabricatie (nanometri)": "10",
+            "Cooler": "Da",
+            "Putere termica (W)": [
+                "65 W",
+                "148 W "
+            ],
+            "Altele": [
+                "Fara procesor grafic integrat"
+            ],
+            "Continut pachet": [
+                "1 x Cooler",
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 PRO 3350G Tray",
+        "price": 450.0,
+        "url": "https://www.emag.ro/procesor-amd-ryzen-5-pro-3350g-tray-yd335bc5m4mfh/pd/DXMQKNMBM/",
+        "rating": 5.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/37203/37202276/images/res_1940a9eea979a0638922f9ffccb5b528.jpg?width=720&height=720&hash=8DA9A6316774AEA04E33A2E86B53F511",
+        "specs": {
+            "Memorie Cache": "6 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3600 MHz",
+            "Turbo Boost pana la": "4000 MHz",
+            "Mod de operare (biti)": "32 / 64",
+            "Numar nuclee": 4,
+            "Numar thread-uri": 8,
+            "Tehnologie de fabricatie (nanometri)": "12 nm",
+            "Cache L3": "4 MB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i5-10400F, socket 1200, 6 C / 12 T, 2.90 GHz - 4.30 GHz, 12 MB cache, 65 W",
+        "price": 668.41,
+        "url": "https://www.emag.ro/procesor-intel-core-i5-10400f-socket-1200-6-c-12-t-2-90-ghz-4-30-ghz-12-mb-cache-65-w-bx8070110400fsrh3d/pd/D65S06MBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/53880/53879298/images/res_946af636ca1297c18b186612470d2eb9.jpg?width=720&height=720&hash=0CC9BD37B8FE69B32BC0E548D3D4CA03",
+        "specs": {
+            "Memorie Cache": "12 MB",
+            "Socket": "1200",
+            "Frecventa procesor (MHz)": "2.9 GHz",
+            "Turbo Boost pana la": "4.3 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 8600G, 22MB, up to 5.0GHz Max Boost, Socket AM5, Radeon Graphics 760M, Wraith Stealth cooler",
+        "price": 1209.99,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-8600g-22mb-up-to-5-0ghz-max-boost-socket-am5-radeontm-graphics-760m-wraith-stealth-cooler-100-100001237box/pd/DHCJDKYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/64842/64841223/images/res_fa24adb6d56f6485e926b23e0e164d95.jpg?width=720&height=720&hash=D6ABA1860A7D6289DD13722698DB5159",
+        "specs": {
+            "Memorie Cache": "22 MB",
+            "Socket": "AMD AM5",
+            "Frecventa procesor (MHz)": "4.3 GHz",
+            "Turbo Boost pana la": "5 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "4 nm",
+            "Cache L3": "16 MB",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "45 W",
+                "65 W "
+            ],
+            "Altele": [
+                "AMD Radeon 760M"
+            ],
+            "Continut pachet": [
+                "1 x Cooler",
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor 100-000000065 AMD Ryzen 5 5600X, 3.7GHz, 32 MB, OEM",
+        "price": 733.74,
+        "url": "https://www.emag.ro/procesor-100-000000065-amd-ryzen-5-5600x-3-7ghz-32-mb-oem-7267027/pd/DYM71JMBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/44096/44095518/images/res_2a5731ccba1eab0c8225c7288218bc1e.jpg?width=720&height=720&hash=86E1CC8AB29407345783B16980C883DA",
+        "specs": {
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Mod de operare (biti)": "64 BIT",
+            "Numar nuclee": 6,
+            "Tehnologie de fabricatie (nanometri)": "7 nm",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 5500GT, 19MB, up to 4.4GHz Max Boost, Socket AM4, Wraith Stealth, Radeon Graphics",
+        "price": 649.99,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-5500gt-19mb-up-to-4-4ghz-max-boost-socket-am4-wraith-stealth-radeontm-graphics-100-100001489box/pd/D9CJDKYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/64842/64841225/images/res_d1de8b95b484aaa49bfc5ab35b90f3c5.jpg?width=720&height=720&hash=F9816F1F4425D16EE48847C785FAFB30",
+        "specs": {
+            "Memorie Cache": "19 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.6 GHz",
+            "Turbo Boost pana la": "4.4 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Cache L1": "384 KB",
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cache L3": "16 MB",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "45 W",
+                "65 W "
+            ],
+            "Continut pachet": [
+                "1 x Cooler",
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 7900X3D, 128MB, 4.4GHz",
+        "price": 2635.99,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7900x3d-128mb-4-4ghz-100-100000909wof/pd/DWX0V6MBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/54111/54110499/images/res_23df58ce9c5e45bede10d24be933c722.jpg?width=720&height=720&hash=92413C54D620E32965E466AC7AE35F21",
+        "specs": {
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4700 MHz",
+            "Turbo Boost pana la": "5600 MHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 12,
+            "Cache L1": "768 KB",
+            "Tehnologie de fabricatie (nanometri)": "5",
+            "Cache L3": "128 MB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "120 W "
+            ],
+            "Altele": [
+                "AMD EXPO",
+                "Precision Boost 2"
+            ]
+        }
+    },
+    {
+        "name": "Procesor, AMD, Ryzen 5, 3.6 GHz, 65 W",
+        "price": 979.95,
+        "url": "https://www.emag.ro/procesor-amd-ryzen-5-3-6-ghz-65-w-100-000000050box/pd/DJZH7ZMBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/49107/49106837/images/res_96d7d74a7ff2c4954d1e4f46fe0a6a48.png?width=720&height=720&hash=8348A1BE814B41E799A7C207FAA00236",
+        "specs": {
+            "Frecventa procesor (MHz)": "3600 MHz",
+            "Numar nuclee": 6,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 5600GT, 19MB, up to 4.6GHz Max Boost, Socket AM4, Wraith Stealth, Radeon Graphics",
+        "price": 814.41,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-5600gt-19mb-up-to-4-6ghz-max-boost-socket-am4-wraith-stealth-radeontm-graphics-100-100001488box/pd/DXCJDKYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/64842/64841225/images/res_d1de8b95b484aaa49bfc5ab35b90f3c5.jpg?width=720&height=720&hash=F9816F1F4425D16EE48847C785FAFB30",
+        "specs": {
+            "Memorie Cache": "19 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.6 GHz",
+            "Turbo Boost pana la": "4.6 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Cache L1": "384 KB",
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cache L3": "16 MB",
+            "Cooler": "Wraith Stealth",
+            "Putere termica (W)": [
+                "45 W",
+                "65 W "
+            ],
+            "Continut pachet": [
+                "1 x Cooler",
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 9 7950X, 128MB, 4.2 GHz",
+        "price": 3917.64,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-9-7950x-128mb-4-2-ghz-100-100000908wof/pd/DGX0V6MBM/",
+        "rating": 1.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/54111/54110499/images/res_23df58ce9c5e45bede10d24be933c722.jpg?width=720&height=720&hash=92413C54D620E32965E466AC7AE35F21",
+        "specs": {
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4200 MHz",
+            "Turbo Boost pana la": "5700 MHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 16,
+            "Cache L1": "16 MB",
+            "Tehnologie de fabricatie (nanometri)": "5",
+            "Cache L3": "128 MB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "120 W "
+            ],
+            "Altele": [
+                "AMD EXPO",
+                "Precision Boost 2"
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i3-6100 3.70GHz, 3MB Cache, Socket 1151,tray, Skylake",
+        "price": 199.0,
+        "url": "https://www.emag.ro/procesor-intel-core-i3-6100-3-70ghz-3mb-cache-socket-1151-tray-skylake-cm8066201927202/pd/D7BHD7MBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/1844/1843677/images/res_0c418778335e145325fe55579d79576d.jpg?width=720&height=720&hash=EDDC6EB22B9900DFBB1B0262F0B64A40",
+        "specs": {
+            "Memorie Cache": "3 MB",
+            "Socket": "1151",
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Mod de operare (biti)": "32 / 64",
+            "Numar nuclee": 2,
+            "Numar thread-uri": 4,
+            "Multiplicare": "37",
+            "Tehnologie de fabricatie (nanometri)": "14 nm",
+            "Voltaj (V)": "1.35",
+            "Cache L3": "3 MB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "51 W "
+            ],
+            "Continut pachet": [
+                "1 procesor "
+            ],
+            "Putere consumata (W)": "51"
+        }
+    },
+    {
+        "name": "Procesor Intel Core i5-14600K, pana la 5.3 GHz turbo, 24MB, Socket LGA1700, Intel UHD Graphics 770",
+        "price": 1679.99,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i5-14600k-pana-la-5-3-ghz-turbo-24mb-socket-lga1700-intelr-uhd-graphics-770-bx8071514600k/pd/D4H937YBM/",
+        "rating": 5.0,
+        "num_reviews": 4,
+        "img": "https://s13emagst.akamaized.net/products/61980/61979094/images/res_211ddd8f5ab35c779acb951d7b9cdcfc.jpg?width=720&height=720&hash=BE011978E531632469655547DCA48F05",
+        "specs": {
+            "Memorie Cache": "24 MB",
+            "Socket": "1700",
+            "Frecventa procesor (MHz)": "2.6 GHz\n3.5 GHz",
+            "Turbo Boost pana la": "5.3 GHz",
+            "Numar nuclee": 14,
+            "Numar thread-uri": 20,
+            "Tehnologie de fabricatie (nanometri)": "10",
+            "Putere termica (W)": [
+                "125 W",
+                "181 W "
+            ],
+            "Altele": [
+                "Procesor grafic integrat: Intel UHD Graphics 770"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i3-10105F Comet Lake, 3.70GHz, 6MB, socket 1200, Box",
+        "price": 369.0,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i3-10105f-comet-lake-3-70ghz-6mb-socket-1200-box-bx8070110105f/pd/DWDPZHMBM/",
+        "rating": 4.95,
+        "num_reviews": 133,
+        "img": "https://s13emagst.akamaized.net/products/39456/39455032/images/res_3e44e948be668e4527da5ac7c3e27292.jpg?width=720&height=720&hash=542296282C2984FD1F2916ED58427FEE",
+        "specs": {
+            "Memorie Cache": "6 MB",
+            "Socket": "1200",
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Turbo Boost pana la": "4.4 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 4,
+            "Numar thread-uri": 8,
+            "Tehnologie de fabricatie (nanometri)": "14",
+            "Cooler": "Da",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "10105F"
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 5600X, 32MB, 4.6GHz, Tray",
+        "price": 870.9,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-5600x-32mb-4-6ghz-tray-100-000000065/pd/D28QJ7MBM/",
+        "rating": 5.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/33748/33747348/images/res_f4897e26440a66f3f01dc0b475ab99f6.jpg?width=720&height=720&hash=2D24AED96733D8EE396AF0A2A0AF881E",
+        "specs": {
+            "Memorie Cache": "35 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.7 GHz",
+            "Turbo Boost pana la": "4.6 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor, AMD, RYZEN 9 7900X3D, 12 nuclee, 4.4 GHz, 128 MB, 120 W",
+        "price": 2666.66,
+        "url": "https://www.emag.ro/procesor-amd-ryzen-9-7900x3d-12-nuclee-4-4-ghz-128-mb-120-w-amd-am5-r9-7900x3d-box/pd/DX15F6MBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/54037/54036795/images/res_4fa088e9f54b170989911a90b3feba7d.jpg?width=720&height=720&hash=39897D2E13D436A1D2C341C3867B1CE4",
+        "specs": {
+            "Memorie Cache": "128 MB",
+            "Socket": "AM5",
+            "Frecventa procesor (MHz)": "4.4 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 12,
+            "Tehnologie de fabricatie (nanometri)": "5 nm",
+            "Putere termica (W)": [
+                "120 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 1600X, 3.6 GHz, 16MB, Socket AM4",
+        "price": 995.86,
+        "url": "https://www.emag.ro/procesor-amd-ryzen-5-1600x-3-6-ghz-16mb-socket-am4-yd160xbcaewof/pd/D93Z57BBM/",
+        "rating": 5.0,
+        "num_reviews": 28,
+        "img": "https://s13emagst.akamaized.net/products/5414/5413420/images/res_db5cb2d4cba9c1c0062c74aa9670963c.jpg?width=720&height=720&hash=FE7F9AEDEC2E3F4D49E55B1151A8439C",
+        "specs": {
+            "Memorie Cache": "16 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3600 MHz",
+            "Turbo Boost pana la": "4000 MHz",
+            "Mod de operare (biti)": "32 / 64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "14",
+            "Cache L3": "16384 KB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "95 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i9-14900KS, 24C / 32T, 3.20 - 6.20 GHz, 36 MB cache, 125 W, Box",
+        "price": 4585.89,
+        "url": "https://www.emag.ro/procesor-intel-core-i9-14900ks-24c-32t-3-20-6-20-ghz-36-mb-cache-125-w-box-bx8071514900kssrn7r/pd/D5F21PYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/69031/69030082/images/res_e887f8c0a4963d31dc1510b2fc62b6c3.jpg?width=720&height=720&hash=AC7DAED4722F6B38400021C31F77DDC0",
+        "specs": {
+            "Memorie Cache": "36 MB",
+            "Socket": "1700",
+            "Frecventa procesor (MHz)": "3.2 GHz",
+            "Turbo Boost pana la": "6.2 GHz",
+            "Numar nuclee": 24,
+            "Numar thread-uri": 32,
+            "Tehnologie de fabricatie (nanometri)": "Intel 7",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "125 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i5-8500 Tray, 4.1 GHz Turbo, Socket 1151, Fara Cooler",
+        "price": 480.0,
+        "url": "https://www.emag.ro/procesor-intel-core-i5-8500-tray-4-1-ghz-turbo-socket-1151-fara-cooler-intelcore-i5-8500-tray/pd/DSPTFWMBM/",
+        "rating": 5.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/42729/42728882/images/res_4f0f0a3fe71b7dcdf704529a9ee179ce.jpg?width=720&height=720&hash=9B5454028830CD543801A6F653D7033F",
+        "specs": {
+            "Memorie Cache": "9 MB",
+            "Socket": "1151v2",
+            "Frecventa procesor (MHz)": "3000 MHz",
+            "Turbo Boost pana la": "4.1 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 6,
+            "Tehnologie de fabricatie (nanometri)": "14",
+            "Cache L3": "9 MB",
+            "Cooler": "Nu",
+            "Putere termica (W)": [
+                "65 W "
+            ],
+            "Altele": [
+                "Procesor grafic integrat - Intel UHD Graphics 630"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i7-12700K, socket 1700, 12 C / 20 T, 3.60 GHz - 5.00 GHz, 25 MB cache, 125 W",
+        "price": 1820.21,
+        "url": "https://www.emag.ro/procesor-intel-core-i7-12700k-socket-1700-12-c-20-t-3-60-ghz-5-00-ghz-25-mb-cache-125-w-bx8071512700ksrl4n/pd/DKR9K6MBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/53817/53816783/images/res_22e5e8470e704f30279b834a59e9ba14.jpg?width=720&height=720&hash=013B8F9DACFF949B37A20DB42C13CA9A",
+        "specs": {
+            "Memorie Cache": "25 MB",
+            "Socket": "1700",
+            "Frecventa procesor (MHz)": "3.6 GHz",
+            "Turbo Boost pana la": "5 GHz",
+            "Numar nuclee": 12,
+            "Numar thread-uri": 20,
+            "Putere termica (W)": [
+                "125 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i5-11600KF Rocket Lake, 3.90 GHz, 12MB, fara grafica integrata, Socket 1200",
+        "price": 791.92,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i5-11600kf-rocket-lake-3-90-ghz-12mb-fara-grafica-integrata-socket-1200-bx8070811600kf/pd/DJBT3KMBM/",
+        "rating": 4.9,
+        "num_reviews": 256,
+        "img": "https://s13emagst.akamaized.net/products/36114/36113435/images/res_c51498e0f384ae8e68f9bf99704f35d8.jpg?width=720&height=720&hash=474B2BCF077C79FDDE6EF2DE7BB40833",
+        "specs": {
+            "Memorie Cache": "12 MB",
+            "Socket": "1200",
+            "Frecventa procesor (MHz)": "3.9 GHz",
+            "Turbo Boost pana la": "4.9 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "14",
+            "Putere termica (W)": [
+                "95 W "
+            ],
+            "Altele": [
+                "11600KF"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i9-14900KF, pana la 6.0 GHz turbo, 36MB, Socket LGA1700, fara video integrat",
+        "price": 3395.0,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i9-14900kf-pana-la-6-0-ghz-turbo-36mb-socket-lga1700-fara-video-integrat-bx8071514900kf/pd/DJH937YBM/",
+        "rating": 4.0,
+        "num_reviews": 4,
+        "img": "https://s13emagst.akamaized.net/products/61980/61979091/images/res_8e32c6705d16600b33992f4af78a9de3.jpg?width=720&height=720&hash=43463C371F3E2FE9D8ABA8D11258A68C",
+        "specs": {
+            "Memorie Cache": "36 MB",
+            "Socket": "1700",
+            "Frecventa procesor (MHz)": "2.4 GHz\n3.2 GHz",
+            "Turbo Boost pana la": "6 GHz",
+            "Numar nuclee": 24,
+            "Numar thread-uri": 32,
+            "Tehnologie de fabricatie (nanometri)": "10",
+            "Putere termica (W)": [
+                "125 W",
+                "253 W "
+            ],
+            "Altele": [
+                "Fara procesor grafic integrat"
+            ],
+            "Continut pachet": [
+                "1 x Procesor "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Celeron G6900 Alder Lake, 3.4GHz, 4MB, Socket 1700",
+        "price": 349.99,
+        "url": "https://www.emag.ro/procesor-intelr-celeronr-g6900-alder-lake-3-4ghz-4mb-socket-1700-bx80715g6900/pd/DPQGTFMBM/",
+        "rating": 4.5,
+        "num_reviews": 2,
+        "img": "https://s13emagst.akamaized.net/products/42720/42719128/images/res_7b32ebe2867c54e993d298c6c4c0cb67.jpg?width=720&height=720&hash=D917841D83FEFAE59B633D101DF49BDB"
+    },
+    {
+        "name": "Procesor Intel Core i5-6500 Tray, 3.6 GHz Turbo, Socket 1151, Fara Cooler",
+        "price": 260.0,
+        "url": "https://www.emag.ro/procesor-intel-core-i5-6500-tray-3-6-ghz-turbo-socket-1151-fara-cooler-intelcore-i5-6500-tray/pd/DRPTFWMBM/",
+        "rating": 5.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/42729/42728882/images/res_4f0f0a3fe71b7dcdf704529a9ee179ce.jpg?width=720&height=720&hash=9B5454028830CD543801A6F653D7033F"
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 5500, socket AM4, 6 C / 12 T, 3.60 GHz - 4.20 GHz, 3 MB 16 MB cache, 65 W",
+        "price": 634.52,
+        "url": "https://www.emag.ro/procesor-amd-ryzen-5-5500-socket-am4-6-c-12-t-3-60-ghz-4-20-ghz-3-mb-16-mb-cache-65-w-100-000000457/pd/DLTQ80YBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/67351/67350962/images/res_0ddcd507b7decd56a6dcc9e056dfa697.jpg?width=720&height=720&hash=4060809407CD867BD6A2834CC172E920",
+        "specs": {
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.6 GHz",
+            "Turbo Boost pana la": "4.2 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Cache L1": "384 KB",
+            "Tehnologie de fabricatie (nanometri)": "7 nm",
+            "Cache L3": "16 MB",
+            "Cooler": "Da",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD A6 9500, 3.5 GHz, Socket AM4",
+        "price": 199.0,
+        "url": "https://www.emag.ro/procesor-amd-a6-9500-3-5-ghz-socket-am4-ad9500agabbox/pd/D68H4NBBM/",
+        "rating": 3.14,
+        "num_reviews": 7,
+        "img": "https://s13emagst.akamaized.net/products/8890/8889180/images/res_ce097c1c8e9443d4391520ee28e32b01.jpg?width=720&height=720&hash=5BBB06B1CB813E5E628E6D884EF2C560",
+        "specs": {
+            "Memorie Cache": "1 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3.5 GHz",
+            "Turbo Boost pana la": "3.8 GHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 2,
+            "Numar thread-uri": 2,
+            "Tehnologie de fabricatie (nanometri)": "28",
+            "Cooler": "Da",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Athlon X4 950, 3.5 GHz, 2MB, Socket AM4",
+        "price": 199.0,
+        "url": "https://www.emag.ro/procesor-amd-athlon-x4-950-3-5-ghz-2mb-socket-am4-ad950xagabbox/pd/DKX1LNBBM/",
+        "rating": 5.0,
+        "num_reviews": 2,
+        "img": "https://s13emagst.akamaized.net/products/8960/8959814/images/res_3759d813948f733ca133828b4095cbcd.jpg?width=720&height=720&hash=BEDAA501E631CBDEE182E37F6EE2C99B"
+    },
+    {
+        "name": "Procesor AMD RYZEN 7 1800X, 3.6 GHz, 20MB, socket AM4, Box",
+        "price": 1158.82,
+        "url": "https://www.emag.ro/procesor-amd-ryzen-7-1800x-3-6-ghz-20mb-socket-am4-box-yd180xbcaewof/pd/DTZ7S7BBM/",
+        "rating": 4.79,
+        "num_reviews": 24,
+        "img": "https://s13emagst.akamaized.net/products/5130/5129546/images/res_c00ac9f1bfd941e908d606af93beef59.jpg?width=720&height=720&hash=5E9A17254101BE02D445FC7EA8A086AD"
+    },
+    {
+        "name": "Procesor Intel Core i5-14500, pana la 5.0 GHz turbo, 24MB L3, Socket LGA1700, Intel UHD Graphics 770",
+        "price": 1570.4,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i5-14500-pana-la-5-0-ghz-turbo-24mb-l3-socket-lga1700-intelr-uhd-graphics-770-bx8071514500/pd/DY6MCKYBM/",
+        "rating": 5.0,
+        "num_reviews": 2,
+        "img": "https://s13emagst.akamaized.net/products/65245/65244090/images/res_4e719489851b33b9e5cc637bd3069fb5.jpg?width=720&height=720&hash=ED31267A0C0546A62BE3C04086201F68"
+    },
+    {
+        "name": "Procesor Intel Core i9-12900K Alder Lake, 3.2GHz, 30MB, Socket 1700",
+        "price": 2194.44,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-i9-12900k-alder-lake-3-2ghz-30mb-socket-1700-bx8071512900k/pd/DDZZ4XMBM/",
+        "rating": 4.81,
+        "num_reviews": 117,
+        "img": "https://s13emagst.akamaized.net/products/41223/41222783/images/res_937e53d5cd103d498012e3f716a37ffb.jpg?width=720&height=720&hash=E681543384ECD5761374CAB470D41D0C"
+    },
+    {
+        "name": "Procesor Intel Core i9-14900KS, 24C / 32T, 3.20 - 6.20 GHz, 36 MB cache, 125 W",
+        "price": 4190.78,
+        "url": "https://www.emag.ro/procesor-intel-core-i9-14900ks-24c-32t-3-20-6-20-ghz-36-mb-cache-125-w-bx8071514900ks/pd/DFXVSPYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/68865/68864717/images/res_39fa98204b144dec344818bbd6a536ce.jpg?width=720&height=720&hash=7D10C061BB3140F7C5FDB7E03C293CF4"
+    },
+    {
+        "name": "Procesor AMD Ryzen 7 3700X, 36MB, 4.4 GHz cu Wraith Prism cooler",
+        "price": 2691.82,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-7-3700x-36mb-4-4-ghz-cu-wraith-prism-cooler-100-100000071box/pd/D8Y10RBBM/",
+        "rating": 4.76,
+        "num_reviews": 116,
+        "img": "https://s13emagst.akamaized.net/products/23409/23408126/images/res_e21d53085d929a7cbdbb4125efbca7fa.jpg?width=720&height=720&hash=AEA84D7E20BA2BFB1AF2DB70C4D63DD8"
+    },
+    {
+        "name": "Procesor Intel Raptor Lake i9-14900KS 24 Cores 3.2 GHz (Up to 6.2 GHz) 36MB, 150W, LGA1700, Fara ventilator",
+        "price": 4113.81,
+        "url": "https://www.emag.ro/procesor-intel-raptor-lake-i9-14900ks-24-cores-3-2-ghz-up-to-6-2-ghz-36mb-150w-lga1700-fara-ventilator-704894-dxv1hpybm/pd/DXV1HPYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/68691/68690929/images/res_4b88837a90c765377ea9e4c0b1b28364.jpg?width=720&height=720&hash=F1BFF7873DED7D4C12B5519E7A42A6BF"
+    },
+    {
+        "name": "Procesor Intel Core Cascade Lake i9-10980XE, 3GHz, 24MB, fara grafica integrata Socket 2066",
+        "price": 7098.99,
+        "url": "https://www.emag.ro/procesor-intelr-coretm-cascade-lake-i9-10980xe-3ghz-24mb-fara-grafica-integrata-socket-2066-bx8069510980xe/pd/DH18QMMBM/",
+        "rating": 5.0,
+        "num_reviews": 1,
+        "img": "https://s13emagst.akamaized.net/products/30296/30295288/images/res_e9c7e4dcbadab9ba3634f2a433973a55.jpg?width=720&height=720&hash=AEC2BAB8C1E0C4015F913DEFA7DE583C"
+    },
+    {
+        "name": "Procesor Intel Core i3-9100, 3.6GHz, 6MB, Socket 1151 - Chipset seria 300",
+        "price": 1281.22,
+        "url": "https://www.emag.ro/procesor-intel-core-i3-9100-3-6ghz-6mb-socket-1151-chipset-seria-300-bx80684i39100/pd/DQGQZGBBM/",
+        "rating": 5.0,
+        "num_reviews": 7,
+        "img": "https://s13emagst.akamaized.net/products/27462/27461498/images/res_a27c60d4e1adb930a666cd88fec5c7a1.jpg?width=720&height=720&hash=5CE3EC04082929EAC2080734259EF94B",
+        "specs": {
+            "Memorie Cache": "6 MB",
+            "Socket": "1151",
+            "Frecventa procesor (MHz)": "3600 MHz",
+            "Turbo Boost pana la": "4200 MHz",
+            "Mod de operare (biti)": "64",
+            "Numar nuclee": 4,
+            "Numar thread-uri": 4,
+            "Tehnologie de fabricatie (nanometri)": "14",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor Intel Core i5-11600, socket 1200, 6 C / 12 T, 2.80 GHz - 4.80 GHz, 12 MB cache, 65 W CM8070804491513",
+        "price": 960.0,
+        "url": "https://www.emag.ro/procesor-intel-core-i5-11600-socket-1200-6-c-12-t-2-80-ghz-4-80-ghz-12-mb-cache-65-w-cm8070804491513/pd/D3MB5WMBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/56742/56741053/images/res_27cfd39aae2f5416199f4b6bce814f71.jpg?width=720&height=720&hash=447615EB4E4BE949288E4167922FB047",
+        "specs": {
+            "Memorie Cache": "12 MB",
+            "Socket": "1200",
+            "Frecventa procesor (MHz)": "2800 MHz",
+            "Turbo Boost pana la": "4.8 GHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "14 nm",
+            "Putere termica (W)": [
+                "65 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 5 3600X, 35MB, 4.4 GHz cu Wraith Spire cooler",
+        "price": 1784.0,
+        "url": "https://www.emag.ro/procesor-amd-ryzentm-5-3600x-35mb-4-4-ghz-cu-wraith-spire-cooler-100-100000022box/pd/D6Y10RBBM/",
+        "rating": 4.86,
+        "num_reviews": 58,
+        "img": "https://s13emagst.akamaized.net/products/23409/23408127/images/res_3b843411f2ad98a1c3b0ee80c3c2c76c.jpg?width=720&height=720&hash=BB056D4620A410F8BA172AF1522236E4",
+        "specs": {
+            "Memorie Cache": "35 MB",
+            "Socket": "AM4",
+            "Frecventa procesor (MHz)": "3800 MHz",
+            "Turbo Boost pana la": "4400 MHz",
+            "Numar nuclee": 6,
+            "Numar thread-uri": 12,
+            "Tehnologie de fabricatie (nanometri)": "7",
+            "Cache L3": "32 MB",
+            "Cooler": "Da",
+            "Putere termica (W)": [
+                "95 W "
+            ]
+        }
+    },
+    {
+        "name": "Procesor AMD Ryzen 7 PRO 7745, socket AM5, 8 C / 16 T, 3.80 GHz - 5.30 GHz, 8 MB 32 MB cache, 65 W",
+        "price": 2206.51,
+        "url": "https://www.emag.ro/procesor-amd-ryzen-7-pro-7745-socket-am5-8-c-16-t-3-80-ghz-5-30-ghz-8-mb-32-mb-cache-65-w-100-100000599mpk/pd/D93MXPYBM/",
+        "rating": -1,
+        "num_reviews": 0,
+        "img": "https://s13emagst.akamaized.net/products/68729/68728905/images/res_6ab3432fc558708a08b1874e571066b9.jpg?width=720&height=720&hash=80D379D3B1E77A613C446BC0F1137045"
+    }
+]
