@@ -1,5 +1,6 @@
 # User defined files
 data/
+drivers/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
