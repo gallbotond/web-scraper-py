@@ -17,7 +17,7 @@ def process_rating(rating):
 def process_num_reviews(num_reviews):
     return int(num_reviews.replace('(', '').replace(')', '')) if num_reviews else 0
 
-def process_list_data(unprocessed_data=None, file_name=None):
+def process_list_data(time, unprocessed_data=None, file_name=None):
     processed_data = []
     print(f"Processing {len(unprocessed_data)} items from {file_name}...")
     # read the data from the file
@@ -35,7 +35,7 @@ def process_list_data(unprocessed_data=None, file_name=None):
         img = item['img']
         processed_data.append({
             'name': name,
-            'price': price,
+            'price': {'value': price, 'date': time},
             'url': url,
             'rating': rating,
             'num_reviews': num_reviews,

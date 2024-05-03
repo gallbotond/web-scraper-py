@@ -55,14 +55,22 @@ def scrape_process_item(processed_data, file_name):
         if retries == max_retries:
             print(f"Failed to get data in {max_retries} retries")
             continue
+        
         # parse the html
         content = result.content
         soup = BeautifulSoup(content, 'html.parser')
         specs_tables = soup.find_all('table', class_='specifications-table')
+        specs_titles = soup.find_all('p.pad-top-sm.text-uppercase.strong')
+        print(len(specs_tables), len(specs_titles))
+        
         # process the specs
         for specs_table in specs_tables:
             specs = process_specs(specs_table)
-            item['specs'] = [specs]
+            if(item.get('specs') == None):
+                item['specs'] = [specs]
+            else:
+                item['specs'].append(specs)
+                
         print(f"Processed {' '.join(item['name'].split(' ')[:8]).replace(',','')}...")
         print(f'Waiting {sleep_time} seconds...')
         time.sleep(0.3)

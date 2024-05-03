@@ -63,6 +63,7 @@ def get_next_page(pagination):
 def scrape_search_term(search_term):
     # parameters
     unprocessed_data = []
+    now = datetime.now().strftime("%H_%M_%S")
     website = f'https://www.emag.ro/search/{"+".join(search_term.split(" "))}'
 
     while True:
@@ -80,7 +81,6 @@ def scrape_search_term(search_term):
     print(f"Found {len(unprocessed_data)} items in total\n")
 
     # write the data to a file as json
-    now = datetime.now().strftime("%H_%M_%S")
     file_name = f'{search_term}_list_{now}'
     file_path = f'beautifulsoup/data/unprocessed_list/{file_name}.json'
     print(f"Writing {len(unprocessed_data)} items to {file_path}")
@@ -88,7 +88,43 @@ def scrape_search_term(search_term):
         json.dump(unprocessed_data, file)
         
     from process_list_data import process_list_data
-    processed_data = process_list_data(unprocessed_data, file_name)
+    processed_data = process_list_data(now, unprocessed_data, file_name)
+    print(f"Processed {len(processed_data)} items")
+
+    from scrape_process_item import scrape_process_item
+    scrape_process_item(processed_data, file_name)
+    
+    return file_path, file_name
+
+def scrape_search_term_price(search_term):
+    # parameters
+    unprocessed_data = []
+    now = datetime.now().strftime("%H_%M_%S")
+    website = f'https://www.emag.ro/search/{"+".join(search_term.split(" "))}'
+
+    while True:
+        # print(website)
+        pagination, unprocessed_data = scrape_page(website, unprocessed_data)
+        next_page = get_next_page(pagination)
+        time.sleep(5)
+        if next_page:
+            website = 'https://www.emag.ro' + next_page['href']
+        else:
+            break
+        
+    # statistics
+    print("\n --- Price List Scraping Summary ---\n")
+    print(f"Found {len(unprocessed_data)} items in total\n")
+
+    # write the data to a file as json
+    file_name = f'{search_term}_list_{now}'
+    file_path = f'beautifulsoup/data/unprocessed_list/{file_name}.json'
+    print(f"Writing {len(unprocessed_data)} items to {file_path}")
+    with open(file_path, 'w') as file:
+        json.dump(unprocessed_data, file)
+        
+    from process_list_data import process_list_data
+    processed_data = process_list_data(now, unprocessed_data, file_name)
     print(f"Processed {len(processed_data)} items")
 
     from scrape_process_item import scrape_process_item
